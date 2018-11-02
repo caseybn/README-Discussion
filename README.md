@@ -15,8 +15,8 @@
 - 
 
 ## EXAMPLES
-Bad https://github.com/sinwar/flaskr
-Good https://github.com/sindresorhus/pageres
+[Example of a bad README](https://github.com/sinwar/flaskr)
+[Example of a good README](https://github.com/sindresorhus/pageres)
 
 ## Helpful Links
 https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
