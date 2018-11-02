@@ -16,6 +16,7 @@
 
 ## EXAMPLES
 [Example of a bad README](https://github.com/sinwar/flaskr)
+
 [Example of a good README](https://github.com/sindresorhus/pageres)
 
 ## Helpful Links
