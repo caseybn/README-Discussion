@@ -20,4 +20,6 @@
 [Example of a good README](https://github.com/sindresorhus/pageres)
 
 ## Helpful Links
+[GitHub README Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
