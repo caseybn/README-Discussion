@@ -25,16 +25,17 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 - Prerequisites: installation
 - Challenges and solutions
 - Resources
-- Usage
+
+4. Usage/ Implementation
   - Helpful to include flow chart of code development
    
-4. Example Code
+5. Example Code
 
-5. Example Output 
+6. Example Output 
 
-6. Contributing (if necessary as part of a larger project)
+7. Contributing (if necessary as part of a larger project)
 
-7. Credits/ Acknowledgments 
+8. Credits/ Acknowledgments 
 
 ## EXAMPLES
 [Example of a bad README](https://github.com/sinwar/flaskr)
