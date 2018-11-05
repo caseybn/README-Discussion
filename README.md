@@ -17,7 +17,7 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 ## README Contents
 1. Project Description
 2. Getting Started
-- Prerequisites
+  - Prerequisites
 
 
 ## EXAMPLES
