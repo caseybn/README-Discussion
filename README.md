@@ -22,11 +22,11 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 2. Table of contents- especially important for longer README files 
 
 3. Getting Started 
-- Prerequisites: installation
-- Challenges and solutions
-- Resources
-- Usage
-  - You can creat long explinations that require scroll bars by using "tab" 
+  - Prerequisites: installation
+  - Challenges and solutions
+  - Resources
+  - Usage
+    - You can creat long explinations that require scroll bars by using "tab" 
 
 4. Example Code
 
