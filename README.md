@@ -7,7 +7,7 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 1. **engages others in the project**
 2. *explains why the project is important*
 3. gives others the opperutnity improve upon the work
-4. **_allows new users the ability to utilize your work for personal use
+4. **_allows new users the ability to utilize your work for personal use_**
 
 ## WHAT MAKES A GOOD README
 - Informative Project Title
