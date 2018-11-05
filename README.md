@@ -12,7 +12,9 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 ## WHAT MAKES A GOOD README
 - Informative Project Title
 - Descriptive summary of the overall project
-- efficiently informative, yet consice 
+- efficiently informative, yet consice
+- Common issue and solutions
+- Example code and explination
 
 ## README Contents
 1. Project Description
@@ -26,6 +28,7 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 [Example of a good README](https://github.com/sindresorhus/pageres)
 
 ## IMAGES
+- Images must be stored in your repo to include them in your README
 ![alt text][
 
 
