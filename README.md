@@ -1,5 +1,4 @@
 # README-Discussion
-Alt-H1
 
 ## PURPOSE
 To demonstrate the importance of a good README, discuss the contents, review examples, and 
@@ -23,10 +22,10 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 2. Table of contents- especially important for longer README files 
 
 3. Getting Started 
-  - Prerequisites: installation
-  - Challenges and solutions
-  - Resources
-  - Usage
+  * Prerequisites: installation
+Challenges and solutions
+Resources
+Usage
    
 
 4. Example Code
