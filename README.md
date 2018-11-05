@@ -18,9 +18,22 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 
 ## README Contents
 1. Project Description
-2. Getting Started 
-- Prerequisites
 
+2. Table of contents- especially important for longer README files 
+
+3. Getting Started 
+- Prerequisites: installation
+- Challenges and solutions
+- Resources
+- Usage
+
+4. Example Code
+
+5. Example Output 
+
+6. Contributing (if necessary as part of a larger project)
+
+7. Credits/ Acknowledgments 
 
 ## EXAMPLES
 [Example of a bad README](https://github.com/sinwar/flaskr)
@@ -30,8 +43,6 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 ## IMAGES
 - Images must be stored in your repo to include them in your README
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/G%26G.jpg)
-
-
 
 ## Helpful Links
 [GitHub README Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
