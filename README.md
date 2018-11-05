@@ -29,7 +29,7 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 
 ## IMAGES
 - Images must be stored in your repo to include them in your README
-![alt text][
+![alt text](https://github.com/caseybn/README-Discussion/blob/master/G%26G.jpg)
 
 
 ## Helpful Links
