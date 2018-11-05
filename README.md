@@ -26,6 +26,7 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 - Challenges and solutions
 - Resources
 - Usage
+  - You can creat long explinations that require scroll bars by using "tab" 
 
 4. Example Code
 
