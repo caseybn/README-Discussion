@@ -98,6 +98,7 @@ budyko
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/G%26G.jpg)
 ### Code Blocks
 ``` code ```
+- if you include the language after the first ```R (or javascript, python, etc.), then it will format colors syntax as the program does
 ### Including Links
 ### Tabs, Spacing, and Returns
         -double tab starts a scroll box
