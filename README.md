@@ -102,7 +102,7 @@ budyko
 ### Tabs, Spacing, and Returns
         -double tab starts a scroll box
 - If you only return once the lines
-will combine into one line, but 
+- will combine into one line, but 
 
 if you return twice it keeps lines seperated.
 
