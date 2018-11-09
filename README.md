@@ -111,6 +111,8 @@ it keeps lines seperated.
 * you need to space before you type to initiate a list 
 
 ## Helpful Links
+[README Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+
 [GitHub Writing and Formatting Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
