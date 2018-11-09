@@ -31,34 +31,37 @@ To demonstrate the importance of a good README, discuss the contents, review exa
    
 5. Example Code
 ```
-recoding_function <- function(jl_vector){
+# plot Budyko curve
+x=seq(0,2,by=.00033)
+n<-n
 
-if(jl_vector[55] == 1){ #if ancestor is equal to 1...
+#aet_c=(ap*pet.ss)/((ap^n+pet.ss^n)^(1/n))
 
-(jl_vector[1:55][jl_vector[1:55] == 1] <- 444) #change all 1s to placeholder 444
+# plot Budyko curve
+x=seq(0,2,by=.000333)
+x<-x[1:6007]
 
-(jl_vector[1:55][jl_vector[1:55] == 0] <- 1) #change all 0s to orginal ancestor (1)
-
-(jl_vector[1:55][jl_vector[1:55]== 2] <- -1) #now change all 2s to -1
-
-(jl_vector[1:55][jl_vector[1:55]== 444] <- 0) #now change all 444s to 0
-} else if(jl_vector[55] == 2) { #if ancestor is equal to 2...
-
-(jl_vector[1:55][jl_vector[1:55] == 2] <- 888) #change all 2s to placeholder 888
-
-(jl_vector[1:55][jl_vector[1:55] == 0] <- 2) #change all 0s to original ancestor (2)
-
-(jl_vector[1:55][jl_vector[1:55]== 2] <- -1) #now change all 2s to -1
-
-(jl_vector[1:55][jl_vector[1:55]== 888] <- 0) #now change all 444s to 0
-} else if(jl_vector[55] == 0){ #if ancestor line is 0...
-
-(jl_vector[1:55][jl_vector[1:55]==2] <- -1) #change all 2s to -1
-}
-
-return(jl_vector)
-
-}
+y1<- x/((1+x^n)^(1/n)) #ecuation of Evaporative Index from Choudhury 1999. 
+#y2<-x/((1+x^1.8)^(1/1.8))
+bc<-data.frame(matrix(NaN,6007,1))#(dry,ei,aq,ap,apet,aet,AET.1,apet-aet)
+a<-ggplot(data=bc)+aes(dry1,ei1)+theme_classic()+scale_x_continuous(expand = c(0,0),limits = c(0,2))+
+  ggtitle("Budyko Curve at Hubbard Brook's WS3: Annual averages for water years 1959-2014")+
+  scale_y_continuous(expand = c(0, 0),limits=c(0,1.1))+scale_shape_discrete(solid=F)+
+  annotate("text", x = 0.6, y = 0.1, label = "PET/P<1 energy limited catchments")+
+  annotate("text",x=1.4,y=0.1,label="PET/P>1 water limited catchments")+
+  geom_point(aes(x=dry1,y=ei1),size=1,show.legend = FALSE)+
+  geom_text(x=1.6,y=0.9,aes(label="n = 1.8 Forest Average (Choudhury, 1999)"), size=3.5)+
+  geom_text(x=1.7,y=0.75,aes(label="n = 1.74 Calibrated n"), size=3.5)
+b<-labs(x="Dryness Index (PET/P)",y="Evaporative Index (ET/P)",size=2)
+c<-geom_segment(aes(x = 0, y = 0, xend = 1, yend = 1))
+d<-geom_segment(aes(x=1,y=1,xend=2,yend=1))
+e<-geom_segment(aes(x=1,y=0,xend=1,yend=1),linetype=2)
+f<-geom_text(x=0.5,y=0.6,aes(label="Energy Limit",angle=60, size=1.5),show.legend = FALSE) #Water limit label
+g<-geom_text(x=1.5,y=1.05,aes(label="Water Limit",size=1.5),show.legend = FALSE) #Energy Limit label
+h<-geom_line(aes(x=x,y=y1))
+i<-geom_line(aes(x=x,y=y2))
+budyko<-a+b+c+d+e+f+g+h#+i
+budyko
 ```
 
 6. Example Output 
