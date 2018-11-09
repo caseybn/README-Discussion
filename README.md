@@ -11,7 +11,7 @@
 
 ## WHY READMEs ARE IMPORTANT
 1. **Engages others in the project**
-2. *Explains why the project is important*
+2. _Explains why the project is important_
 3. Gives others the opportunity improve upon the work
 4. **_Allows new users the ability to utilize your work for personal use_**
 
@@ -109,7 +109,10 @@ it keeps lines seperated.
 
 -if you dont space after your symbol, a list will not start
 * you need to space before you type to initiate a list 
-
+### Emphasis
+- bold: start and end word or sentence with **
+- italicize: start and end word or sentence with _
+- both: start and end word or sentence with **_
 ## Helpful Links
 [README Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
