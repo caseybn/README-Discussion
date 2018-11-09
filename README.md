@@ -64,7 +64,9 @@ budyko<-a+b+c+d+e+f+g+h#+i
 budyko
 ```
 
-6. Example Output 
+6. Example Output
+![alt text](https://github.com/caseybn/README-Discussion/blob/master/Picture1.png)
+![alt text](https://github.com/caseybn/README-Discussion/blob/master/Picture2.png)
 
 7. Contributing (if necessary as part of a larger project)
 
