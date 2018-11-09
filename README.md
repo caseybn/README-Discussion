@@ -101,10 +101,10 @@ budyko
 ### Including Links
 ### Tabs, Spacing, and Returns
         -double tab starts a scroll box
-- If you only return once the lines
-- will combine into one line, but 
+If you only return once 
+the lines will combine into one line, but if you return twice 
 
-if you return twice it keeps lines seperated.
+it keeps lines seperated.
 
 ## Helpful Links
 [GitHub Writing and Formatting Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
