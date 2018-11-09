@@ -97,7 +97,7 @@ budyko
 - Images must be stored in your repo to include them in your README
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/G%26G.jpg)
 ### Code Blocks
-"```" code "```"
+` ` ` code ` ` `
 - if you include the language after the first ```R (or javascript, python, etc.), then it will format colors syntax as the program does
 ### Including Links
 ### Tabs, Spacing, and Returns
