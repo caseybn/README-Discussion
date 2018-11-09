@@ -2,6 +2,12 @@
 
 ## PURPOSE
     To demonstrate the importance of a good README, discuss the contents, review examples, and learn a few formatting tricks.
+## Contents
+1. Why READMEs are important
+2. What makes a good README
+3. README Contents
+4. Examples
+5. Helpful Hints
 
 ## WHY READMEs ARE IMPORTANT
 1. **Engages others in the project**
@@ -79,9 +85,20 @@ budyko
 
 [Example of a good README](https://github.com/sindresorhus/pageres)
 
-## IMAGES
+## Helpful Hints
+# HEADERS
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+# IMAGES
 - Images must be stored in your repo to include them in your README
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/G%26G.jpg)
+# Code Blocks
+# Including Links
+# Tabs, Spacing, and Returns
 
 ## Helpful Links
 [GitHub Writing and Formatting Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
