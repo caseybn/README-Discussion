@@ -7,7 +7,7 @@
 - What makes a good README
 - README Contents
 - Examples
-- Helpful Hints
+
 
 ## WHY READMEs ARE IMPORTANT
 1. **Engages others in the project**
