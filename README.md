@@ -30,10 +30,9 @@ To demonstrate the importance of a good README, discuss the contents, review exa
   - Helpful to include flow chart of code development
    
 5. Example Code
-
+```
 recoding_function <- function(jl_vector){
 
-```
 if(jl_vector[55] == 1){ #if ancestor is equal to 1...
 
 (jl_vector[1:55][jl_vector[1:55] == 1] <- 444) #change all 1s to placeholder 444
