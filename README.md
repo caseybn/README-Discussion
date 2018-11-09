@@ -76,7 +76,9 @@ return(jl_vector)
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/G%26G.jpg)
 
 ## Helpful Links
-[GitHub README Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[GitHub Writing and Formatting Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
 
