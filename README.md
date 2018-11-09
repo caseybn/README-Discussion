@@ -1,7 +1,7 @@
 # README-Discussion
 
 ## PURPOSE
-To demonstrate the importance of a good README, discuss the contents, review examples, and 
+  To demonstrate the importance of a good README, discuss the contents, review examples, and learn a few formatting tricks.
 
 ## WHY READMEs ARE IMPORTANT
 1. **Engages others in the project**
@@ -17,19 +17,19 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 - Example code and explanation 
 
 ## README Contents
-1. Project Description
+# 1. Project Description
 
-2. Table of contents- especially important for longer README files 
+# 2. Table of contents- especially important for longer README files 
 
-3. Getting Started 
+# 3. Getting Started 
 - Prerequisites: installation
 - Challenges and solutions
 - Resources
 
-4. Usage/ Implementation
+# 4. Usage/ Implementation
   - Helpful to include flow chart of code development
    
-5. Example Code
+# 5. Example Code
 ```
 # plot Budyko curve
 x=seq(0,2,by=.00033)
@@ -64,14 +64,14 @@ budyko<-a+b+c+d+e+f+g+h#+i
 budyko
 ```
 
-6. Example Output
+# 6. Example Output
 
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/Picture1.png)
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/Picture2.png)
 
-7. Contributing (if necessary as part of a larger project)
+# 7. Contributing (if necessary as part of a larger project)
 
-8. Credits/ Acknowledgments 
+# 8. Credits/ Acknowledgments 
 
 ## EXAMPLES
 [Example of a bad README](https://github.com/sinwar/flaskr)
