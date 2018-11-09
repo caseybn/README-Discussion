@@ -65,6 +65,7 @@ budyko
 ```
 
 6. Example Output
+
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/Picture1.png)
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/Picture2.png)
 
