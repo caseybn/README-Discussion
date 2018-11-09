@@ -32,7 +32,7 @@ To demonstrate the importance of a good README, discuss the contents, review exa
 5. Example Code
 
 recoding_function <- function(jl_vector){
-
+'''
 if(jl_vector[55] == 1){ #if ancestor is equal to 1...
 
 (jl_vector[1:55][jl_vector[1:55] == 1] <- 444) #change all 1s to placeholder 444
@@ -59,7 +59,7 @@ if(jl_vector[55] == 1){ #if ancestor is equal to 1...
 return(jl_vector)
 
 }
-
+'''
 6. Example Output 
 
 7. Contributing (if necessary as part of a larger project)
