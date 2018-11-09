@@ -3,11 +3,11 @@
 ## PURPOSE
     To demonstrate the importance of a good README, discuss the contents, review examples, and learn a few formatting tricks.
 ## Contents
-1. Why READMEs are important
-2. What makes a good README
-3. README Contents
-4. Examples
-5. Helpful Hints
+- Why READMEs are important
+- What makes a good README
+- README Contents
+- Examples
+- Helpful Hints
 
 ## WHY READMEs ARE IMPORTANT
 1. **Engages others in the project**
@@ -106,6 +106,9 @@ If you only return once
 the lines will combine into one line, but if you return twice 
 
 it keeps lines seperated.
+
+-if you dont space after your symbol, a list one start
+* you need to space before you type
 
 ## Helpful Links
 [GitHub Writing and Formatting Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
