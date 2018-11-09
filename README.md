@@ -107,8 +107,8 @@ the lines will combine into one line, but if you return twice
 
 it keeps lines seperated.
 
--if you dont space after your symbol, a list one start
-* you need to space before you type
+-if you dont space after your symbol, a list will not start
+* you need to space before you type to initiate a list 
 
 ## Helpful Links
 [GitHub Writing and Formatting Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
