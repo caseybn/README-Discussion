@@ -37,7 +37,7 @@
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/Picture3.png)
 
 ### 5. Example Code
-```
+```R
 # plot Budyko curve
 x=seq(0,2,by=.00033)
 n<-n
