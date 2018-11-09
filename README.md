@@ -1,7 +1,7 @@
 # README-Discussion
 
 ## PURPOSE
-  To demonstrate the importance of a good README, discuss the contents, review examples, and learn a few formatting tricks.
+    To demonstrate the importance of a good README, discuss the contents, review examples, and learn a few formatting tricks.
 
 ## WHY READMEs ARE IMPORTANT
 1. **Engages others in the project**
