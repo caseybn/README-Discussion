@@ -17,19 +17,20 @@
 - Example code and explanation 
 
 ## README Contents
-# 1. Project Description
+### 1. Project Description
 
-# 2. Table of contents- especially important for longer README files 
+### 2. Table of contents- especially important for longer README files 
 
-# 3. Getting Started 
+### 3. Getting Started 
 - Prerequisites: installation
 - Challenges and solutions
 - Resources
 
-# 4. Usage/ Implementation
-  - Helpful to include flow chart of code development
-   
-# 5. Example Code
+### 4. Usage/ Implementation
+  - Helpful to include flow chart of code or data development
+![alt text](https://github.com/caseybn/README-Discussion/blob/master/Picture3.png)
+
+### 5. Example Code
 ```
 # plot Budyko curve
 x=seq(0,2,by=.00033)
@@ -64,14 +65,14 @@ budyko<-a+b+c+d+e+f+g+h#+i
 budyko
 ```
 
-# 6. Example Output
+### 6. Example Output
 
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/Picture1.png)
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/Picture2.png)
 
-# 7. Contributing (if necessary as part of a larger project)
+### 7. Contributing (if necessary as part of a larger project)
 
-# 8. Credits/ Acknowledgments 
+### 8. Credits/ Acknowledgments 
 
 ## EXAMPLES
 [Example of a bad README](https://github.com/sinwar/flaskr)
