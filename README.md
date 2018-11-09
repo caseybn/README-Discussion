@@ -97,6 +97,7 @@ budyko
 - Images must be stored in your repo to include them in your README
 ![alt text](https://github.com/caseybn/README-Discussion/blob/master/G%26G.jpg)
 # Code Blocks
+``` code ```
 # Including Links
 # Tabs, Spacing, and Returns
 
